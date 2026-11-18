@@ -1,4 +1,4 @@
 # Practical-Exam_Sec
 Sec Exam Practice.
 <br>
-Author - Nandini
+Author - Nandini Gupta
